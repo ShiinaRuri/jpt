@@ -21,7 +21,7 @@
   * [形容词活用](kougo/keiyoushi-katsuyou.md)
   * [助词](kougo/zhu-ci/README.md)
     * [格助词](kougo/zhu-ci/ge-zhu-ci.md)
-    * [副助词](kougo/zhu-ci/jodoushi-ya-doushi-no-tukaekata.md)
+    * [助动词](kougo/zhu-ci/jodoushi-ya-doushi-no-tukaekata.md)
     * [系助词](kougo/zhu-ci/xi-zhu-ci.md)
     * [终助词](kougo/zhu-ci/zhong-zhu-ci.md)
 * [公告处](announcement/README.md)
