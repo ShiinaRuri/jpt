@@ -41,6 +41,8 @@
     * [陈述副词](bungo/fukushi/chinjutsu-fukushi.md)
   * [接续词](bungo/setsuzokushi.md)
   * [连体词](bungo/rentaishi.md)
+  * [助词](bungo/joshi/README.md)
+    * [格助词](bungo/joshi/kakujoshi.md)
 * [公告处](announcement/README.md)
   * [更新日志](announcement/update-log.md)
   * [关于此网站](announcement/contact.md)
