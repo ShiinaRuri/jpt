@@ -35,6 +35,7 @@
   * [サ行変格活用](bungo/sahenkaku.md)
   * [ナ行変格活用](bungo/nahenkaku.md)
   * [ラ行変格活用](bungo/rahenkaku.md)
+  * [形容词活用（ク・シ）与形容动词活用（ナリ・タリ）](bungo/keiyoushi.md)
 * [公告处](announcement/README.md)
   * [更新日志](announcement/update-log.md)
   * [关于此网站](announcement/contact.md)
