@@ -4,15 +4,10 @@ description: 欢迎来到Lomenot的日语教学页面。
 
 # 主页
 
-{% hint style="danger" %}
-这是临时转移域名，之后将正式转移到 www.lomenot.com
-{% endhint %}
-
 {% hint style="success" %}
 冷却状态：无\
-已重做：日本语基础语法（所有章节）\
-更新中：系助词\
-修改于：2025/05/07
+完成：用言活用-口语\
+修改于：2026/10/15
 {% endhint %}
 
 {% content-ref url="announcement/contact.md" %}
