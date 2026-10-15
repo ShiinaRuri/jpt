@@ -25,6 +25,7 @@
     * [系助词](kougo/zhu-ci/xi-zhu-ci.md)
     * [终助词](kougo/zhu-ci/zhong-zhu-ci.md)
   * [助动词](kougo/jodoushi-ya-doushi-no-tukaekata.md)
+* [用言活用-文语](bungo.md)
 * [公告处](announcement/README.md)
   * [更新日志](announcement/update-log.md)
   * [关于此网站](announcement/contact.md)
