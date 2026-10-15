@@ -75,10 +75,10 @@ description: 文语是日本的古典书面语，现代日语的活用体系正�
 * [上二段活用](kaminidan.md)
 * [下一段活用](shimoichidan.md)
 * [下二段活用](shimonidan.md)
-* カ行変格活用
-* サ行変格活用
-* ナ行変格活用
-* ラ行変格活用
+* [カ行変格活用](kahenkaku.md)
+* [サ行変格活用](sahenkaku.md)
+* [ナ行変格活用](nahenkaku.md)
+* [ラ行変格活用](rahenkaku.md)
 * 形容词活用（ク・シ）与形容动词活用（ナリ・タリ）
 
 （本章正在陆续编写，各页写好后会在这里挂上链接。）
