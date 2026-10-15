@@ -22,7 +22,7 @@
   * [助词](kougo/zhu-ci/README.md)
     * [格助词](kougo/zhu-ci/ge-zhu-ci.md)
     * [副助词](kougo/zhu-ci/jodoushi-ya-doushi-no-tukaekata.md)
-    * [系助词（更新中）](kougo/zhu-ci/xi-zhu-ci-geng-xin-zhong.md)
+    * [系助词](kougo/zhu-ci/xi-zhu-ci.md)
     * [终助词（未更新）](kougo/zhu-ci/zhong-zhu-ci-wei-geng-xin.md)
 * [公告处](announcement/README.md)
   * [更新日志](announcement/update-log.md)
