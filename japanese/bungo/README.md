@@ -73,8 +73,8 @@ description: 文语是日本的古典书面语，现代日语的活用体系正�
 * [四段活用](shidan.md)
 * [上一段活用](kamiichidan.md)
 * [上二段活用](kaminidan.md)
-* 下一段活用
-* 下二段活用
+* [下一段活用](shimoichidan.md)
+* [下二段活用](shimonidan.md)
 * カ行変格活用
 * サ行変格活用
 * ナ行変格活用

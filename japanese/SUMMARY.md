@@ -29,6 +29,8 @@
   * [四段活用](bungo/shidan.md)
   * [上一段活用](bungo/kamiichidan.md)
   * [上二段活用](bungo/kaminidan.md)
+  * [下一段活用](bungo/shimoichidan.md)
+  * [下二段活用](bungo/shimonidan.md)
 * [公告处](announcement/README.md)
   * [更新日志](announcement/update-log.md)
   * [关于此网站](announcement/contact.md)
