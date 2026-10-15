@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: 日语教学
+  structure:
+    - type: space
+      key: space-1
+      title: 日语教学
+      path: japanese
+      default: true
+      content:
+        directory: ./japanese
+        language: zh
