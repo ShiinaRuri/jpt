@@ -48,6 +48,7 @@
     * [副助詞](bungo/joshi/fukujoshi.md)
     * [終助詞](bungo/joshi/shuujoshi.md)
     * [間投助詞](bungo/joshi/kantoujoshi.md)
+    * [识别对照表](bungo/joshi/shikibetsu.md)
 * [公告处](announcement/README.md)
   * [更新日志](announcement/update-log.md)
   * [关于此网站](announcement/contact.md)
