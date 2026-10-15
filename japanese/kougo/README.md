@@ -98,6 +98,6 @@ description: 口语是现代标准日语中最常用的语言
 [keiyoushi-katsuyou.md](keiyoushi-katsuyou.md)
 {% endcontent-ref %}
 
-{% content-ref url="zhu-ci/jodoushi-ya-doushi-no-tukaekata.md" %}
-[jodoushi-ya-doushi-no-tukaekata.md](zhu-ci/jodoushi-ya-doushi-no-tukaekata.md)
+{% content-ref url="jodoushi-ya-doushi-no-tukaekata.md" %}
+[jodoushi-ya-doushi-no-tukaekata.md](jodoushi-ya-doushi-no-tukaekata.md)
 {% endcontent-ref %}

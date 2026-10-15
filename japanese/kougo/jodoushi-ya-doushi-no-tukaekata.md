@@ -1,8 +1,8 @@
 ---
-description: 能为各类词语附加特定的语义内涵
+description: 接在用言之后，为谓语添上被动、使役、否定、时与推量等意义
 ---
 
-# 副助词
+# 助动词
 
 ## 未然形
 
@@ -213,8 +213,8 @@ description: 能为各类词语附加特定的语义内涵
 当然，详细用法我在之前提到过。\
 请参照：
 
-{% content-ref url="../../base-monhou/keigou.md" %}
-[keigou.md](../../base-monhou/keigou.md)
+{% content-ref url="../base-monhou/keigou.md" %}
+[keigou.md](../base-monhou/keigou.md)
 {% endcontent-ref %}
 
 礼貌语是连用型的一种，它的规则如下：
